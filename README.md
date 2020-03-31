@@ -1,8 +1,8 @@
-# Sound Management Demo MONICA
+# ENvironemt Sensor Security Demo MONICA
 
 ## Overview
 
-This repository is a working docker compose example of whole MONICA toolchain, from data simulation to visualization. The overall use case for this is sound mangagement using Sound Level Meters and sound processing. Main components are the following:
+This repository is a working docker compose example of whole MONICA toolchain, from data simulation to visualization. The overall use case for this is security mangagement using Environmental Sensors. Main components are the following:
 - Common Operational Picture
     - [COP UI](https://github.com/MONICA-Project/COP-UI) - The generic MONICA COP user interface
     - [COP APi](https://github.com/MONICA-Project/COP.API) - The MONICA COP API
@@ -108,7 +108,7 @@ The following table show the list of services with opened ports (inside subnet a
 
 ### Tutorials based on this demo
 The following tutorials use this demo as starting point:
-- [COP UI Tutorial for Sound](https://monica-project.github.io/sections/cop-ui-tutorial.html)
+- [COP UI Tutorial for Environment](https://monica-project.github.io/sections/cop-ui-tutorial.html)
 
 ## Affiliation
 ![MONICA](https://github.com/MONICA-Project/template/raw/master/monica.png)  
