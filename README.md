@@ -1,4 +1,4 @@
-# Environemt Sensor Security Demo MONICA
+# Environment Sensors for detecting weather related incidents Demo MONICA
 
 ## Overview
 
