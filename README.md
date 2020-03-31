@@ -1,4 +1,4 @@
-# ENvironemt Sensor Security Demo MONICA
+# Environemt Sensor Security Demo MONICA
 
 ## Overview
 
