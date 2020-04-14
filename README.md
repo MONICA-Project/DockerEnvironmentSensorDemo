@@ -1,4 +1,4 @@
-# Environment Sensors for managing weather related incidents Demo MONICA
+# Security Monitoring Demo MONICA
 
 ## Overview
 
@@ -108,7 +108,7 @@ The following table show the list of services with opened ports (inside subnet a
 
 ### Tutorials based on this demo
 The following tutorials use this demo as starting point:
-- [COP UI Tutorial for Environment](https://monica-project.github.io/sections/cop-ui-tutorial.html)
+- [COP UI Tutorial for Security Monitoring](https://monica-project.github.io/sections/cop-ui-tutorial.html)
 
 ## Affiliation
 ![MONICA](https://github.com/MONICA-Project/template/raw/master/monica.png)  
